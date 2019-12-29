@@ -11,3 +11,6 @@ $ swift run
 
 The HTML page is written out to `html`.
 
+## Purpose
+
+[🤔](https://github.com/SimonRice/build-image)
